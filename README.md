@@ -1,1 +1,1 @@
-# this id the clone of amazon!
+# this is the clone of amazon!
